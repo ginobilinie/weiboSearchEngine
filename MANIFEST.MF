@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.weiobo.sort.Sort
+Class-path: json_lib/commons-beanutils-1.8.3.jar json_lib/commons-collections-3.2.1.jar json_lib/commons-lang-2.6.jar json_lib/commons-logging-1.1.1.jar json_lib/ezmorph-1.0.6.jar json_lib/json-lib-2.4-jdk15.jar json_lib/json-lib-2.4-jdk15-javadoc.jar feicilib/IKAnalyzer3.2.8.jar 
+
